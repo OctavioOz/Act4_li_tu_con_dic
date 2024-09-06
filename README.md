@@ -8,4 +8,12 @@ Act 4 trabajando con listas, tuplas, conjuntos y diccionarios
 - Resultado
 - ![image](https://github.com/user-attachments/assets/0a06421d-2570-4443-b30c-fb69e117f70f)
 
+## Las tuplas
+- El codigo
+- ![image](https://github.com/user-attachments/assets/52279ba0-650b-4aec-b81c-9b59c0a03884)
+- Resultado
+- ![image](https://github.com/user-attachments/assets/68ccfca0-9353-4c23-9962-33e5c5ce0bbe)
+
+
+
 
